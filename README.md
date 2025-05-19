@@ -1,2 +1,2 @@
-# so_long
-My implimentation of 42 so_long
+The assets that i have used:
+[Skeletons (enemies)](https://monopixelart.itch.io/skeletons-pack)
